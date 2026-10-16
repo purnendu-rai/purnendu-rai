@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&width=500&lines=Hi%2C+I%27m+Purnendu+Rai;Security+Researcher+%40+Bugcrowd;Cybersecurity+undergrad+%40+UPSIFS;Aspiring+GSoC+2027+contributor" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=purnendu-rai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/purnendu-rai/purnendu-rai/raw/main/activity-graph/activity-graph.svg" alt="Contribution activity graph" />
+</div>
+
 # Hi, I'm Purnendu Rai
 
 **Security Researcher @ Bugcrowd** · Cybersecurity undergraduate at the **Uttar Pradesh State Institute of Forensic Science (UPSIFS), Lucknow, India**.
@@ -46,8 +58,14 @@ Found a BOLA/IDOR issue in the City of Vienna program allowing cross-account mod
 
 ## 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=purnendu-rai&show_icons=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purnendu-rai&layout=compact&theme=transparent)
+<div align="center">
+  <img src="https://streak-stats.vercel.app/?user=purnendu-rai" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=purnendu-rai&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnendu-rai&layout=compact&theme=transparent" alt="Top languages" />
+</div>
 
 ## 📫 Contact
 

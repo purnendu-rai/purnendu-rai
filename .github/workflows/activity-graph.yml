@@ -18,17 +18,12 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate activity graph
-        uses: ashutosh00710/github-activity-graph@v0.1.0
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          github_user: purnendu-rai
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Move graph into place
-        run: |
-          mkdir -p activity-graph
-          if [ -f github-activity-graph.svg ]; then
-            mv github-activity-graph.svg activity-graph/activity-graph.svg
-          fi
+          username: purnendu-rai
+          options: "bg_color=0D1117&color=a9fef7&line=fe428e&point=f8d847&area_color=fe428e&title_color=f8d847"
+          output_path: activity-graph/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & push
         run: |

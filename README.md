@@ -1,37 +1,54 @@
-# Hi there, I'm Purnendu Rai
+# Hi, I'm Purnendu Rai
 
-Cybersecurity student at the **Uttar Pradesh State Institute of Forensic Science (UPSIFS), Lucknow, India**.
+**Security Researcher @ Bugcrowd** · Cybersecurity undergraduate at the **Uttar Pradesh State Institute of Forensic Science (UPSIFS), Lucknow, India**.
 
-🎯 **Current goal:** aspiring **Google Summer of Code 2027** contributor — interested in open-source security tooling and [OWASP](https://owasp.org) projects.
+Found a BOLA/IDOR issue in the City of Vienna program allowing cross-account modification of citizen profile data, including consent records.
+
+🎯 Aspiring **Google Summer of Code 2027** contributor — interested in open-source security tooling and [OWASP](https://owasp.org) projects.
 
 ---
 
-### 🔍 Focus areas
-
-- Web security
-- Python tooling for security workflows
-- Network security
-- CTFs
-
-### 🛠️ Skills & tools
+## 🛠️ Skills & tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0A2540)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0E86A6)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD)
+![Nessus](https://img.shields.io/badge/Nessus-00A0B0)
 
-### 🔭 What I'm working on
+## 💼 Experience
 
-- [**Drishti — QR Fraud Detector**](https://github.com/purnendu-rai/QR-FRAUD-DETECTION): a Python command-line tool that scans QR code images and flags fraudulent URLs and UPI payment requests, with VirusTotal API integration.
-- [**Quantum-AGIS**](https://github.com/purnendu-rai/quantum-agis): a quantum-inspired agentic governance & intrusion shield — a six-layer quantum-secured communication and threat-detection framework built for Smart India Hackathon 2026.
+- **Security Researcher, Bugcrowd** — Reported a BOLA/IDOR vulnerability in the City of Vienna program that allowed cross-account modification of citizen profile data, including consent records.
+- **Summer Intern, Ethical Hacking & Cybersecurity — IIT Jammu (Summer School 2026, with Techible and I3C)** — Hands-on work with Nmap, OpenVAS, Nessus, Burp Suite, Hydra, Metasploit, and Wireshark; built a QR code fraud detection tool.
+- **Cyber Warrior Intern, GPCSSI 2026 (26-day internship)** — Built a malicious QR-code redirect detector and an image-metadata analyzer for digital forensics.
 
-### 📊 GitHub stats
+## 📜 Certifications
+
+- [Ethical Hacking Essentials (EHE)](https://courses.edx.org/certificates/2bc923ae9fca42688e71d9a027a570c3) — edX, Mar 2026
+- [CS50's Introduction to Programming with Python](https://courses.edx.org/certificates/9262a293e3614cc7bf894163d060e722) — edX, Feb 2026
+- Deloitte Cyber Job Simulation — Forage, Jan 2026
+- Mastercard Cybersecurity Job Simulation — Forage, Jan 2026
+- [CS50's Introduction to Programming with Python](https://certificates.cs50.io/f4dbc140-bead-440d-a578-854e457bcac8.png?size=A4) — CS50, Jul 2025
+
+## 🔭 Projects
+
+- [**QUANTUM-AEGIS**](https://github.com/purnendu-rai/quantum-agis) — 6-layer quantum-immune signature-attack detection system built with a team for Smart India Hackathon 2026 (#SIH2026). Live demo: [quantum-agis.vercel.app](https://quantum-agis.vercel.app)
+- [**Drishti — QR Fraud Detector**](https://github.com/purnendu-rai/QR-FRAUD-DETECTION) — Python CLI that scans QR code images and flags fraudulent URLs, UPI payment requests, and crypto payment scams (VirusTotal API integration).
+- **Image-metadata analyzer** — Tool for digital forensics built during the GPCSSI 2026 Cyber Warrior internship.
+
+## 🌱 Currently learning
+
+- TryHackMe — Pre Security and Cyber Security 101 paths
+- VaultofCodes "Ethical Hacking 100 Days Winter Arc" (Dec 2025 – Mar 2026)
+
+## 📊 GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=purnendu-rai&show_icons=true&theme=transparent)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purnendu-rai&layout=compact&theme=transparent)
 
-### 📫 Reach me
+## 📫 Contact
 
 - Email: purnendurai@outlook.com

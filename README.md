@@ -31,30 +31,12 @@ Found a BOLA/IDOR issue in the City of Vienna program allowing cross-account mod
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD)
 ![Nessus](https://img.shields.io/badge/Nessus-00A0B0)
 
-## 💼 Experience
-
-- **Security Researcher, Bugcrowd** — Reported a BOLA/IDOR vulnerability in the City of Vienna program that allowed cross-account modification of citizen profile data, including consent records.
-- **Summer Intern, Ethical Hacking & Cybersecurity — IIT Jammu (Summer School 2026, with Techible and I3C)** — Hands-on work with Nmap, OpenVAS, Nessus, Burp Suite, Hydra, Metasploit, and Wireshark; built a QR code fraud detection tool.
-- **Cyber Warrior Intern, GPCSSI 2026 (26-day internship)** — Built a malicious QR-code redirect detector and an image-metadata analyzer for digital forensics.
-
-## 📜 Certifications
-
-- [Ethical Hacking Essentials (EHE)](https://courses.edx.org/certificates/2bc923ae9fca42688e71d9a027a570c3) — edX, Mar 2026
-- [CS50's Introduction to Programming with Python](https://courses.edx.org/certificates/9262a293e3614cc7bf894163d060e722) — edX, Feb 2026
-- Deloitte Cyber Job Simulation — Forage, Jan 2026
-- Mastercard Cybersecurity Job Simulation — Forage, Jan 2026
-- [CS50's Introduction to Programming with Python](https://certificates.cs50.io/f4dbc140-bead-440d-a578-854e457bcac8.png?size=A4) — CS50, Jul 2025
-
 ## 🔭 Projects
 
 - [**QUANTUM-AEGIS**](https://github.com/purnendu-rai/quantum-agis) — 6-layer quantum-immune signature-attack detection system built with a team for Smart India Hackathon 2026 (#SIH2026). Live demo: [quantum-agis.vercel.app](https://quantum-agis.vercel.app)
 - [**Drishti — QR Fraud Detector**](https://github.com/purnendu-rai/QR-FRAUD-DETECTION) — Python CLI that scans QR code images and flags fraudulent URLs, UPI payment requests, and crypto payment scams (VirusTotal API integration).
 - **Image-metadata analyzer** — Tool for digital forensics built during the GPCSSI 2026 Cyber Warrior internship.
 
-## 🌱 Currently learning
-
-- TryHackMe — Pre Security and Cyber Security 101 paths
-- VaultofCodes "Ethical Hacking 100 Days Winter Arc" (Dec 2025 – Mar 2026)
 
 ## 📊 GitHub stats
 

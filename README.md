@@ -29,7 +29,6 @@
 
 - [**QUANTUM-AEGIS**](https://github.com/purnendu-rai/quantum-agis) — 6-layer quantum-immune signature-attack detection system built with a team for Smart India Hackathon 2026 (#SIH2026). Live demo: [quantum-agis.vercel.app](https://quantum-agis.vercel.app)
 - [**Drishti — QR Fraud Detector**](https://github.com/purnendu-rai/QR-FRAUD-DETECTION) — Python CLI that scans QR code images and flags fraudulent URLs, UPI payment requests, and crypto payment scams (VirusTotal API integration).
-- **Image-metadata analyzer** — Tool for digital forensics built during the GPCSSI 2026 Cyber Warrior internship.
 
 
 ## 📊 GitHub stats

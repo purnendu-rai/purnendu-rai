@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&width=500&lines=Hi%2C+I%27m+Purnendu+Rai;Security+Researcher+%40+Bugcrowd;Cybersecurity+undergrad+%40+UPSIFS;Aspiring+GSoC+2027+contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Purnendu+Rai;Security+Researcher+%40+Bugcrowd;Cybersecurity+Undergrad+%40+UPSIFS;Aspiring+GSoC+2027+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,12 +11,6 @@
 </div>
 
 # Hi, I'm Purnendu Rai
-
-**Security Researcher @ Bugcrowd** · Cybersecurity undergraduate at the **Uttar Pradesh State Institute of Forensic Science (UPSIFS), Lucknow, India**.
-
-Found a BOLA/IDOR issue in the City of Vienna program allowing cross-account modification of citizen profile data, including consent records.
-
-🎯 Aspiring **Google Summer of Code 2027** contributor — interested in open-source security tooling and [OWASP](https://owasp.org) projects.
 
 ---
 
